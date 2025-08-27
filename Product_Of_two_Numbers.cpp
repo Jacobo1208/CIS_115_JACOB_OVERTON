@@ -14,7 +14,7 @@ int num1 = 5;
 int num2 = 10; 
 int product = num1 * num2;
 
-//using the std output and print the hello world string
+//this prints out the product of two numbers from above
 std::cout << product << std::endl; 
 
 return 0; 
