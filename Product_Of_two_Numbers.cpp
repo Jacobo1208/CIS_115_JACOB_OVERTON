@@ -17,6 +17,6 @@ int product = num1 * num2;
 //using the std output and print the hello world string
 std::cout << product << std::endl; 
 
-
+return 0; 
 
 }
