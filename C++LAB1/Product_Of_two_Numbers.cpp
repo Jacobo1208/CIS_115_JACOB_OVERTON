@@ -1,6 +1,6 @@
 //@author: Jacob Overton
 //@date: 8/27/2025
-//@purpose: This program prints the numbers 0 through 10
+//@purpose: This program prints the product of two numbers
 
 //include iostream directive 
 #include <iostream>
